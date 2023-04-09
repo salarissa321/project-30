@@ -1,6 +1,6 @@
 
 body{
-
+background-image: ;
 }
 
 
@@ -75,4 +75,124 @@ margin-left: 500px;
 
 .mybutton:hover{
     background-color: blueviolet;
+}
+
+.mydiv{
+    margin-left: 80px;
+}
+
+.mydiv2{
+    margin-left: 80px;
+}
+
+.myheader{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    line-height: 35px;
+    font-size: 18px;
+    color: #444;
+    margin-bottom: 4px;
+    margin: 0;
+    padding: 0;
+border: 0;
+
+}
+
+.myparagraf{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    line-height: 26px;
+    font-size: 14px;
+    color: #999;
+    margin: 0 0 20px 0;
+    padding: 0;
+border: 0;
+  
+
+}
+
+.myclick{
+    font-family: 'Open Sans',sans-serif;
+    font-weight: bold;
+    line-height: 35px;
+    font-size: 14px;
+    color: #59a3fc;
+    text-decoration: none;
+    margin: 0;
+padding: 0;
+border: 0;
+}
+
+.myimg1{
+    border-radius: 100%;
+    border: 1px none rgb(68, 68, 68);
+    width: 200px;
+    height: 200px;
+    outline: none;
+    cursor: default;
+    margin-left: -100%;
+    margin-right: -100%;
+    margin: 0;
+    padding: 0;
+    margin-left: 110px;
+}
+
+.mybanner{
+margin: 0;
+padding: 0;
+border: 0;
+color: #000;
+font-weight: 500;
+}
+
+.mypara{
+    color: #a9a9a9;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.click{
+    background: #59a3fc;
+    font-size: 12px;
+    color: #fff;
+    font-family: 'open sans',sans-serif;
+    border-radius: 3px;
+    text-decoration: none;
+    position: relative;
+    display: inline-block;
+    padding: 7px 25px 5px;
+    margin-bottom: 50px;
+    text-align: center;
+    border: 0;
+    margin: 0;
+    margin-left: 160px;
+}
+
+.myimg2{
+    border-radius: 100%;
+    border: 1px none rgb(68, 68, 68);
+    width: 200px;
+    height: 200px;
+    outline: none;
+    cursor: default;
+    margin-left: -100%;
+    margin-right: -100%;
+    margin: 0;
+    padding: 0;
+    margin-left: 110px;
+}
+
+.myimg3{
+    border-radius: 100%;
+    border: 1px none rgb(68, 68, 68);
+    width: 200px;
+    height: 200px;
+    outline: none;
+    cursor: default;
+    margin-left: -100%;
+    margin-right: -100%;
+    margin: 0;
+    padding: 0;
+    margin-left: 110px;
 }
